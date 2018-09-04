@@ -1,11 +1,6 @@
 Exterios Core
 ==============
 
-[Build Status](https://travis-ci.org/bitshares/bitshares-core/branches):
-
-`master` | `develop` | `hardfork` | `testnet` | `exterios-fc` 
- --- | --- | --- | --- | ---
-
 
 * [Getting Started](#getting-started)
 * [Support](#support)
